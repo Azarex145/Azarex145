@@ -4,16 +4,16 @@
 </h1>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=500&color=3CE0F7&center=true&vCenter=true&width=800&lines=A+passionate+frontend+developer+from+India;I+love+exploring+new+things;I+am+keen+on+learning+new+technology;I+enjoy+solving+problems" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=500&color=3CE0F7&center=true&vCenter=true&width=800&lines=A+passionate+Full Stack+developer+from+India;I+love+exploring+new+things;I+am+keen+on+learning+new+technology;I+enjoy+solving+problems" alt="Typing SVG" /></a>
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h2 align="center">About Me</h2>
 <img align="right" src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" alt="coding" width="45%"/>
 <p width="55%">
-<p>🔭 I’m currently working on <b>frontend and backend web devlopment</b></p>
-<p>🌱 I’m currently learning <b>MERN stack devlopment</b></p>
+<p>🔭 I’m currently working on <b>frontend and backend web technologies</b></p>
+<p>🌱 I’m currently learning <b>Full Stack devlopment</b></p>
 <p>📫 How to reach me <b>shivamazarex111@gmail.com</b></p>
-<p>📄 Download my <a href="https://drive.google.com/file/d/1GeDFFhJedQrKRsNz6NE_gRZIc8JMSV3A/view?usp=drive_link">Resume</a>
+<p>📄 Download my <a href="https://drive.google.com/file/d/1taY9Qi3NQXV4CvN_F8M2Pkba1jpIerpE/view?usp=sharing">Resume</a>
 <p>⚡ Fun fact <b>I am the multiverse</b></p>
 <p>💬 Open for your suggestions</p>
 <h3 align="left">Connect with me 🤝</h3>
